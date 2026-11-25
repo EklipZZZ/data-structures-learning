@@ -4,9 +4,7 @@
 
 ## 学习路线与进度
 
-[查看可视化学习路线](https://eklipzzz.github.io/data-structures-roadmap/)：根据已有计划整理的模块总览。
-
-[飞书：数据结构算法学习计划](https://kcnnjotuedu2.feishu.cn/base/O0EIbJyyvaXUUnsAElhcZpQOnKv?table=tblBsDIx27VzaoGy&view=vewXuquCn1)记录学习任务和进度。当前分享权限为组织内获得链接者可阅读，外部访客可能无法访问。
+[查看飞书学习计划](https://eklipzzz.github.io/data-structures-roadmap/)：直接浏览飞书共享视图。也可以[在飞书中打开](https://kcnnjotuedu2.feishu.cn/share/base/view/shrcnZZdt5Yj5fHuI7AjXvI68Kf)。
 
 目前包含线性表、栈、队列、树、并查集、图、查找、排序和堆等练习。各目录反映学习记录，并不代表课程内容已经全部掌握。
 
